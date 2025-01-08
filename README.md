@@ -29,7 +29,7 @@ A Discord Rich Presence plugin for Neovim written in Lua.
 ```markdown
 # My Awesome Website
 
-## Description
+[![Release package](https://github.com/mdn/browser-compat-data/actions/workflows/release.yml/badge.svg?branch=revert-21461-dependabot%2Fgithub_actions%2Factions%2Flabeler-5&event=watch)](https://github.com/mdn/browser-compat-data/actions/workflows/release.yml)## Description
 A brief description of what the project is about.
 
 ## Installation
